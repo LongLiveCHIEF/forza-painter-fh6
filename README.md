@@ -42,7 +42,9 @@ Convert PNG/JPG/BMP images into Forza Horizon 6 Vinyl Group layers. The app hand
 4. In FH6, open `Create Vinyl Group` / `Vinyl Group Editor`, load a sphere template, then `Ungroup` it.
 5. In the app, generate JSON, open the `Import` page, enter the exact template layer count, then import.
 
-Do not download GitHub's automatic `Source code` ZIP unless you are developing the project. Normal users only need the `.exe`.
+**Do not** download GitHub's automatic `Source code` ZIP unless you are developing the project. Normal users only need the `.exe`.
+
+Details for configuration settings can be found in the [Configuration Settings Document](docs/settings.md)
 
 ## Preview
 
